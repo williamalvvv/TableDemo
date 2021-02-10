@@ -1,0 +1,13 @@
+/Users/usuario/Desktop/ProjectsASN/azure-cosmos-table-dotnet-core-getting-started-main/CosmosTableSamples/bin/Debug/netcoreapp2.0/Settings.json
+/Users/usuario/Desktop/ProjectsASN/azure-cosmos-table-dotnet-core-getting-started-main/CosmosTableSamples/bin/Debug/netcoreapp2.0/CosmosTableSamples.deps.json
+/Users/usuario/Desktop/ProjectsASN/azure-cosmos-table-dotnet-core-getting-started-main/CosmosTableSamples/bin/Debug/netcoreapp2.0/CosmosTableSamples.runtimeconfig.json
+/Users/usuario/Desktop/ProjectsASN/azure-cosmos-table-dotnet-core-getting-started-main/CosmosTableSamples/bin/Debug/netcoreapp2.0/CosmosTableSamples.runtimeconfig.dev.json
+/Users/usuario/Desktop/ProjectsASN/azure-cosmos-table-dotnet-core-getting-started-main/CosmosTableSamples/bin/Debug/netcoreapp2.0/CosmosTableSamples.dll
+/Users/usuario/Desktop/ProjectsASN/azure-cosmos-table-dotnet-core-getting-started-main/CosmosTableSamples/bin/Debug/netcoreapp2.0/CosmosTableSamples.pdb
+/Users/usuario/Desktop/ProjectsASN/azure-cosmos-table-dotnet-core-getting-started-main/CosmosTableSamples/obj/Debug/netcoreapp2.0/CosmosTableSamples.csprojAssemblyReference.cache
+/Users/usuario/Desktop/ProjectsASN/azure-cosmos-table-dotnet-core-getting-started-main/CosmosTableSamples/obj/Debug/netcoreapp2.0/CosmosTableSamples.AssemblyInfoInputs.cache
+/Users/usuario/Desktop/ProjectsASN/azure-cosmos-table-dotnet-core-getting-started-main/CosmosTableSamples/obj/Debug/netcoreapp2.0/CosmosTableSamples.AssemblyInfo.cs
+/Users/usuario/Desktop/ProjectsASN/azure-cosmos-table-dotnet-core-getting-started-main/CosmosTableSamples/obj/Debug/netcoreapp2.0/CosmosTableSamples.csproj.CoreCompileInputs.cache
+/Users/usuario/Desktop/ProjectsASN/azure-cosmos-table-dotnet-core-getting-started-main/CosmosTableSamples/obj/Debug/netcoreapp2.0/CosmosTableSamples.dll
+/Users/usuario/Desktop/ProjectsASN/azure-cosmos-table-dotnet-core-getting-started-main/CosmosTableSamples/obj/Debug/netcoreapp2.0/CosmosTableSamples.pdb
+/Users/usuario/Desktop/ProjectsASN/azure-cosmos-table-dotnet-core-getting-started-main/CosmosTableSamples/obj/Debug/netcoreapp2.0/CosmosTableSamples.genruntimeconfig.cache
